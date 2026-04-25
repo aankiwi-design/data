@@ -1,12 +1,14 @@
 {
   "users": [
     {
-      "username": "tokosedot",
-      "token": "tokosedot-K9xM2pQ7wR4nV8yL"
+      "username": "dextrorey",
+      "token": "dextrorey-AbC123",
+      "createdAt": "2026-04-25T12:00:00.000Z"
     },
     {
-      "username": "juragan69",
-      "token": "juragan69-H3tJ8mZ1xW5vC2bN"
+      "username": "user2",
+      "token": "user2-XyZ789",
+      "createdAt": "2026-04-25T12:05:00.000Z"
     }
   ]
 }
